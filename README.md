@@ -25,5 +25,6 @@
 
 <h2>Q: Who's the site host?</h2>
 <p>A: I'm using Github pages to host this site, as this is only a static website.</p>
+<a href="https://jaydenlooo.github.io/Uploaded-Files/">Click here</a>
 </body>
 </html>
