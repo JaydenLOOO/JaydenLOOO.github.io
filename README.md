@@ -6,7 +6,7 @@
     <title>Jayden_LOO's Personal Website</title>
     <style>
         body {
-            font-family: cursive;
+            font-family: monospace;
             font-size: medium;
         }
     </style>
@@ -25,6 +25,8 @@
 
 <h2>Q: Who's the site host?</h2>
 <p>A: I'm using Github pages to host this site, as this is only a static website.</p>
+<h2>Uploaded-Files </h2>
+<h3>👇</h3>
 <a href="https://jaydenlooo.github.io/Uploaded-Files/">Click here</a>
 </body>
 </html>
