@@ -24,7 +24,7 @@
     </ol>
 </p>
 
-<h2>Q: Who's the site host?</h2>
+<h2>Q: Who's the site's host?</h2>
 <p>A: I'm using Github pages to host this site, as this is only a static website.</p>
 <h2>Uploaded-Files </h2>
 <h3>👇</h3>
