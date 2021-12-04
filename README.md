@@ -18,7 +18,7 @@
 <h3>Purpose for the website is for:</h3>
 <p>
     <ol>
-       -Testing out some features that I learnt through learning programming.<br>
+       -Testing out some features that I learned through programming.<br>
         -Adding some updates on my programming journey.<br>
         -And overall just having control over a website.<br>
     </ol>
