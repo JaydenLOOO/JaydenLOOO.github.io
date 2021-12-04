@@ -27,6 +27,6 @@
 <p>A: I'm using Github pages to host this site, as this is only a static website.</p>
 <h2>Uploaded-Files </h2>
 <h3>👇</h3>
-<a href="https://jaydenlooo.github.io/Uploaded-Files/">Click Here</a>
+<a href="https://jaydenlooo.netlify.app/">Click Here</a>
 </body>
 </html>
