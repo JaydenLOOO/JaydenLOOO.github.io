@@ -14,6 +14,7 @@
 <body>
 <h1>Hello!</h1>
 <h2>I'm Jayden_LOO, the creator of the website!</h2>
+    <img src="/img/laptop.png">
 <h3>Purpose for the website is for:</h3>
 <p>
     <ol>
