@@ -6,7 +6,7 @@
     <title>Jayden_LOO's Personal Website</title>
     <style>
         body {
-            font-family: monospace;
+            font-family: sans-serif;
             font-size: medium;
         }
     </style>
